@@ -54,4 +54,4 @@ Here we can see one more record created automatically
 
 ![image](https://user-images.githubusercontent.com/58024415/95938272-27c16100-0df7-11eb-8167-b2a8ab7a4081.png)
 
-Check status came to Issued.
+Check status came to Issued
